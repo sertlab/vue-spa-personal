@@ -15,8 +15,8 @@
               </figure>
             </div>
             <div class="media-content">
-              <p class="title is-4">John Smith</p>
-              <p class="subtitle is-6">@johnsmith</p>
+              <p class="title is-4">Fanis Strezos</p>
+              <p class="subtitle is-6">@fanisstrezos</p>
             </div>
           </div>
 
@@ -31,7 +31,7 @@
       </div>
     </div>
     <div class="column">
-      <h1 class="title is-1">My CV</h1>
+      <h1 class="title is-1">About Me</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum scelerisque imperdiet diam, in tincidunt nunc scelerisque sit amet. Nam quis efficitur dui, vitae scelerisque ante. Donec cursus commodo neque, nec ornare enim facilisis id. Integer eget tempor mauris. Etiam eu pellentesque arcu. Aliquam condimentum aliquet libero non scelerisque. In sed odio fringilla, facilisis purus id, tristique justo. Nulla pretium, elit sollicitudin vestibulum vehicula, ligula lorem accumsan felis, sit amet sodales dui eros nec arcu. Praesent sit amet mollis est. Nunc gravida ante sed nibh faucibus rutrum. Etiam dui odio, lacinia vel odio eu, aliquet commodo elit. Fusce et laoreet erat. Donec imperdiet tempus turpis, in dictum urna dapibus non. Donec eros lorem, molestie at justo eget, vehicula consequat turpis. Nam ac facilisis nulla, eget sodales odio.
 

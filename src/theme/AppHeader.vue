@@ -1,8 +1,8 @@
 <template>
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
-      <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+    <a class="navbar-item" href="/">
+      <img src="https://media.karousell.com/media/photos/products/2018/01/25/fsmonkey__daniel_case_1516871783_fc5bfca8.png" width="112" height="28">
     </a>
 
     <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -29,17 +29,10 @@
 
         <div class="navbar-dropdown">
           <a class="navbar-item" href="/vue-examples">
-            Vue Examples
+            Vue Examples Simple Events
           </a>
-          <a class="navbar-item">
-            Jobs
-          </a>
-          <a class="navbar-item">
-            Contact
-          </a>
-          <hr class="navbar-divider">
-          <a class="navbar-item">
-            Report an issue
+          <a class="navbar-item" href="/vue-examples-css">
+            Vue Examples CSS Styling
           </a>
         </div>
       </div>

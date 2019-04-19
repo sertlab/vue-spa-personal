@@ -1,6 +1,7 @@
 <template>
 <div>
   <app-header></app-header>
+  <app-hero :route="route"></app-hero>
   <div class="container">
     <router-view></router-view>
   </div>
@@ -10,13 +11,18 @@
 <script>
   import AppHeader from './AppHeader.vue'
   import AppFooter from './AppFooter.vue'
+  import AppHero from './AppHero.vue'
 
   export default {
     data () {
+      return {
+        test: this.$route
+      }
     },
     components: {
       'app-header': AppHeader,
-      'app-footer': AppFooter
+      'app-footer': AppFooter,
+      'app-hero': AppHero
     }
   }
 </script>
