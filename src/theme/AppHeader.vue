@@ -28,8 +28,8 @@
         </a>
 
         <div class="navbar-dropdown">
-          <a class="navbar-item">
-            About
+          <a class="navbar-item" href="/vue-examples">
+            Vue Examples
           </a>
           <a class="navbar-item">
             Jobs
